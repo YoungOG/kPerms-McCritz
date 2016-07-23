@@ -1,0 +1,8 @@
+database:
+  host: localhost
+  port: 27017
+  database-name: kperms
+general:
+  default-rank: Default
+  tablist-colors: true
+  nametag-colors: true

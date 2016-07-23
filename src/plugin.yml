@@ -1,0 +1,5 @@
+main: com.mccritz.kperms.kPerms
+name: kPerms
+description: Permissions and ranks plugin that utilizes MongoDB.
+author: Young
+version: 1.0
